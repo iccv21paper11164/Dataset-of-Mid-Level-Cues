@@ -5,7 +5,7 @@ Anonymized code in submission for ICCV 2021
 Paper ID:11164
 
 ## Dataset
-We provide a dataset icluding `14 midlevel cues` (332 images for each cue) from a Replica mesh. You can download the dataset from [here](https://drive.google.com/file/d/1HgRwEHB-c-5QJ7eVrMZBEZTbnHSPMFUR/view?usp=sharing).
+We provide a sample dataset icluding `14 midlevel cues` (332 images for each cue) from a Replica mesh. You can download the dataset from [here](https://drive.google.com/file/d/1HgRwEHB-c-5QJ7eVrMZBEZTbnHSPMFUR/view?usp=sharing).
 
 ## Dataloader
 The code includes a Dataloader that apply necessary transforms for reading in each modality to analytic values.
